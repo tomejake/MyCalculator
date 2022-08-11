@@ -11,3 +11,9 @@
 
 ### Toast 사용법
 - Toast.makeText(this, "내용", Toast.LENGTH_LONG).show()
+
+### contains("")
+- 문자열에서 입력한 단어가 포함되어 있으면 true, 아니면 false 를 반환해준다.
+
+### startWith
+- 문자열이 입력한 단어로 시작하는지를 확인하고 true, 아니면 false 를 반환해준다.
